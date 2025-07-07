@@ -1,3 +1,5 @@
+[中文文档](./说明书.md) | [English Document](./README.md)
+
 # Allow your js functions to support implicit template string calls
 
 ```javascript
