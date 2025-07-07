@@ -1,4 +1,4 @@
-[中文文档](./说明书.md) | [English Document](./README.md)
+[中文文档](https://github.com/HMYang33/decode-template-string/blob/main/%E8%AF%B4%E6%98%8E%E4%B9%A6.md) | [English Document](https://github.com/HMYang33/decode-template-string/blob/main/README.md)
 
 # Allow your js functions to support implicit template string calls
 
