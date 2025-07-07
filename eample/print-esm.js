@@ -1,9 +1,9 @@
-import wrap from 'decode-template-string'
+import decode from 'decode-template-string'
 
 
 function print() {
-  let warpped = wrap(arguments)
-  console.log(warpped);
+  let str = decode(arguments)
+  console.log(str);
 }
 
 

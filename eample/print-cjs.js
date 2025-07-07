@@ -1,9 +1,9 @@
-const wrap = require('decode-template-string');
+const decode = require('decode-template-string');
 
 
 const print = (...args) => {
-  let warpped = wrap(args)
-  console.log(warpped);
+  let str = decode(args)
+  console.log(str);
 }
 
 
