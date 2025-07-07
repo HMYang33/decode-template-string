@@ -1,0 +1,13 @@
+{
+  "name": "decode-template-string",
+  "version": "1.0.0",
+  "type": "module",        
+  "main": "dist/index.js", 
+  "module": "dist/index.mjs", 
+  "exports": {
+    ".": {
+      "require": "./dist/index.js", 
+      "import": "./dist/index.mjs"  
+    }
+  }
+}
