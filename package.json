@@ -1,12 +1,22 @@
 {
   "name": "decode-template-string",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Allow your js functions to support implicit template string calls",
   "homepage": "https://github.com/HMYang33/decode-template-string",
   "license": "MIT",
   "type": "module",        
   "main": "dist/index.js", 
   "module": "dist/index.mjs", 
+  "keywords": [
+    "template-string",
+    "decode",
+    "implicit-call",
+    "es6",
+    "transform",
+    "check",
+    "javascript",
+    "utility"
+  ],
   "exports": {
     ".": {
       "require": "./dist/index.js", 
